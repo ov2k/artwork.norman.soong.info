@@ -36,5 +36,6 @@
 
 
 
-<script type="text/javascript" src="{{ site.baseurl | append: "/js/lightbox.js" }}"></script>
-<link rel="stylesheet" href="{{ site.baseurl | append: "/css/lightbox.css" }}">
+<script type="text/javascript" src="{{ site.baseurl }}/js/lightbox.js"></script>
+<link rel="stylesheet" href="{{ site.baseurl }}/css/lightbox.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/css/custom.css">
