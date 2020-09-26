@@ -1,3 +1,6 @@
+---
+title: "Norman Soong's Artwork"
+---
 # The Seven Last Words
 
 {% include image-gallery.html folder="/assets/artwork/The-Seven-Last-Words" %}
