@@ -1,0 +1,7 @@
+.thumb-list {
+	columns: 4;
+	list-style-type: none;
+}
+.thumb-list li {
+	text-align: center;
+}
