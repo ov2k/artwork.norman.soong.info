@@ -1,9 +1,6 @@
-Unless otherwise specified, the following license applies.
+The MIT License (MIT)
 
-
-MIT License
-
-Copyright (c) 2020 ov2k
+Copyright (c) 2015 Lokesh Dhakar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
-The images within assets/artwork are copyright (c) 2014-2016 Norman Soong.  All
-rights reserved.  No license is given.
-
-
-
-The files within lightbox2 are subject to the license in lightbox2/LICENSE.
