@@ -1,11 +1,9 @@
 <ul class="thumb-list">
-	{% for file in site.static_files %}
-		{% if file.path contains include.folder %}
-			<li>
-				<a href="{{ file.path | relative_url }}" data-lightbox="{{ include.folder }}">
-					<img src="//images.weserv.nl?url={{ site.url }}{{ file.path | relative_url }}&w=300&h=300&fit=contain&cbg=white" />
-				</a>
-			</li>
-		{% endif %}
+	{% for work in series.works %}
+		<li>
+			<a href="{{ work.path | relative_url }}" data-lightbox="{{ series.name }}">
+				<img src="//images.weserv.nl?url={{ site.url }}{{ work.path | relative_url }}&w=300&h=300&fit=contain&cbg=white" />
+			</a>
+		</li>
 	{% endfor %}
 </ul>
