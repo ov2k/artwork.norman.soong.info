@@ -1,0 +1,138 @@
+- name: The Seven Last Words
+  works: 
+    - path: /assets/artwork/The-Seven-Last-Words/1. For they do not know what they do.jpg
+      title: For they do not know what they do
+    - path: /assets/artwork/The-Seven-Last-Words/2. You will be with me in Paradise..jpg
+      title: You will be with me in Paradise.
+    - path: /assets/artwork/The-Seven-Last-Words/3. Here is your son and here is your mother..jpg
+      title: Here is your son and here is your mother.
+    - path: /assets/artwork/The-Seven-Last-Words/4. Why have you forsaken me.jpg
+      title: Why have you forsaken me?
+    - path: /assets/artwork/The-Seven-Last-Words/5. I am thirsty..jpg
+      title: I am thirsty.
+    - path: /assets/artwork/The-Seven-Last-Words/6. It is finished..jpg
+      title: It is finished.
+    - path: /assets/artwork/The-Seven-Last-Words/7. Into your hands I commit my spirit..jpg
+      title: Into your hands I commit my spirit.
+- name: Five Bar Requiem
+  works: 
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 01.jpg
+      title: Bar 1
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 02.jpg
+      title: Bar 2
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 03.jpg
+      title: Bar 3
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 04.jpg
+      title: Bar 4
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 05.jpg
+      title: Bar 5
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 06.jpg
+      title: Bar 6
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 07.jpg
+      title: Bar 7
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 09.jpg
+      title: Bar 9
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 10.jpg
+      title: Bar 10
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 11.jpg
+      title: Bar 11
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 12.jpg
+      title: Bar 12
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 13.jpg
+      title: Bar 13
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 14.jpg
+      title: Bar 14
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 15.jpg
+      title: Bar 15
+    - path: /assets/artwork/Five-Bar-Requiem/Bar 16.jpg
+      title: Bar 16
+- name: Fabric
+  works: 
+    - path: /assets/artwork/Fabric/No. 630.jpg
+      title: No. 630
+    - path: /assets/artwork/Fabric/No. 640.jpg
+      title: No. 640
+    - path: /assets/artwork/Fabric/No. 642.jpg
+      title: No. 642
+    - path: /assets/artwork/Fabric/No. 643.jpg
+      title: No. 643
+- name: Trees in Snow
+  works: 
+    - path: /assets/artwork/Trees-in-Snow/No. 483.jpg
+      title: No. 483
+    - path: /assets/artwork/Trees-in-Snow/No. 484.jpg
+      title: No. 484
+    - path: /assets/artwork/Trees-in-Snow/No. 485.jpg
+      title: No. 485
+    - path: /assets/artwork/Trees-in-Snow/No. 486.jpg
+      title: No. 486
+- name: 2nd and Race
+  works: 
+    - path: /assets/artwork/2nd-and-Race/No. 618.jpg
+      title: No. 618
+      medium: Leica Raw
+    - path: /assets/artwork/2nd-and-Race/No. 620.jpg
+      title: No. 620
+      medium: Leica Raw
+    - path: /assets/artwork/2nd-and-Race/No. 622.jpg
+      title: No. 622
+      medium: Leica Raw
+    - path: /assets/artwork/2nd-and-Race/No. 623.jpg
+      title: No. 623
+      medium: Leica Raw
+- name: 2nd and Cherry
+  works: 
+    - path: /assets/artwork/2nd-and-Cherry/No. 169.jpg
+      title: No. 169
+      medium: Leica Raw
+    - path: /assets/artwork/2nd-and-Cherry/No. 176.jpg
+      title: No. 176
+      medium: Leica Raw
+    - path: /assets/artwork/2nd-and-Cherry/No. 179.jpg
+      title: No. 179
+      medium: Leica Raw
+    - path: /assets/artwork/2nd-and-Cherry/No. 195.jpg
+      title: No. 195
+      medium: Leica Raw
+- name: Chaos 36x36
+  works: 
+    - path: /assets/artwork/Chaos-36x36/Chaos in Blue.jpg
+      title: Chaos in Blue
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-36x36/Chaos in Fall Color.jpg
+      title: Chaos in Fall Color
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-36x36/Chaos in Green, White.jpg
+      title: Chaos in Green/White
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-36x36/Chaos in Terra Rosa.jpg
+      title: Chaos in Terra Rosa
+      medium: Acrylic on canvas
+- name: 'Chaos 2: Dark on Light'
+  works: 
+    - path: /assets/artwork/Chaos-2-Dark-on-Light/Chaos in Blue.jpg
+      title: Chaos in Blue
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-2-Dark-on-Light/Chaos in Green.jpg
+      title: Chaos in Green
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-2-Dark-on-Light/Chaos in Peach.jpg
+      title: Chaos in Peach
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-2-Dark-on-Light/Chaos in Yellow.jpg
+      title: Chaos in Yellow
+      medium: Acrylic on canvas
+- name: 'Chaos 1: Light on Dark'
+  works: 
+    - path: /assets/artwork/Chaos-1-Light-on-Dark/No. 4 Red.jpg
+      title: No. 4 Red
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-1-Light-on-Dark/No. 7 Terracotta.jpg
+      title: No. 7 Terracotta
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-1-Light-on-Dark/No. 10 Green.jpg
+      title: No. 10 Green
+      medium: Acrylic on canvas
+    - path: /assets/artwork/Chaos-1-Light-on-Dark/No. 13 Blue.jpg
+      title: No. 13 Blue
+      medium: Acrylic on canvas

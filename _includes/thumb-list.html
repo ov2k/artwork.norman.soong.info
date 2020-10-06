@@ -1,11 +1,28 @@
 <ul class="thumb-list">
-	{% for file in site.static_files %}
-		{% if file.path contains include.folder %}
-			<li>
-				<a href="{{ file.path | relative_url }}" data-lightbox="{{ include.folder }}">
-					<img src="//images.weserv.nl?url={{ site.url }}{{ file.path | relative_url }}&w=300&h=300&fit=contain&cbg=white" />
-				</a>
-			</li>
+	{% for work in series.works %}
+		{% assign caption = "" %}
+		{% if work.title %}
+			{% capture html %}
+				<span class=&quot;title&quot;>{{work.title}}</span>
+			{% endcapture %}
+			{% if caption != "" %}
+				{% assign caption = caption | append: "<br />" %}
+			{% endif %}
+			{% assign caption = caption | append: html %}
 		{% endif %}
+		{% if work.medium %}
+			{% capture html %}
+				<span class=&quot;medium&quot;>{{work.medium}}</span>
+			{% endcapture %}
+			{% if caption != "" %}
+				{% assign caption = caption | append: "<br />" %}
+			{% endif %}
+			{% assign caption = caption | append: html %}
+		{% endif %}
+		<li>
+			<a href="{{ work.path | relative_url }}" data-lightbox="{{ series.name }}" data-alt="{{ work.title }}" data-title="{{ caption }}">
+				<img src="//images.weserv.nl?url={{ site.url }}{{ work.path | relative_url }}&w=300&h=300&fit=contain&cbg=white" alt="{{ work.title }}" />
+			</a>
+		</li>
 	{% endfor %}
 </ul>
