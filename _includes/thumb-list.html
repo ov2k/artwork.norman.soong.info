@@ -1,8 +1,8 @@
 <ul class="thumb-list">
 	{% for work in series.works %}
 		<li>
-			<a href="{{ work.path | relative_url }}" data-lightbox="{{ series.name }}">
-				<img src="//images.weserv.nl?url={{ site.url }}{{ work.path | relative_url }}&w=300&h=300&fit=contain&cbg=white" />
+			<a href="{{ work.path | relative_url }}" data-lightbox="{{ series.name }}" data-alt="{{ work.title }}">
+				<img src="//images.weserv.nl?url={{ site.url }}{{ work.path | relative_url }}&w=300&h=300&fit=contain&cbg=white" alt="{{ work.title }}" />
 			</a>
 		</li>
 	{% endfor %}
