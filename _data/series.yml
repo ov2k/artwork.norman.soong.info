@@ -70,49 +70,69 @@
   works: 
     - path: /assets/artwork/2nd-and-Race/No. 618.jpg
       title: No. 618
+      medium: Leica Raw
     - path: /assets/artwork/2nd-and-Race/No. 620.jpg
       title: No. 620
+      medium: Leica Raw
     - path: /assets/artwork/2nd-and-Race/No. 622.jpg
       title: No. 622
+      medium: Leica Raw
     - path: /assets/artwork/2nd-and-Race/No. 623.jpg
       title: No. 623
+      medium: Leica Raw
 - name: 2nd and Cherry
   works: 
     - path: /assets/artwork/2nd-and-Cherry/No. 169.jpg
       title: No. 169
+      medium: Leica Raw
     - path: /assets/artwork/2nd-and-Cherry/No. 176.jpg
       title: No. 176
+      medium: Leica Raw
     - path: /assets/artwork/2nd-and-Cherry/No. 179.jpg
       title: No. 179
+      medium: Leica Raw
     - path: /assets/artwork/2nd-and-Cherry/No. 195.jpg
       title: No. 195
+      medium: Leica Raw
 - name: Chaos 36x36
   works: 
     - path: /assets/artwork/Chaos-36x36/Chaos in Blue.jpg
       title: Chaos in Blue
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-36x36/Chaos in Fall Color.jpg
       title: Chaos in Fall Color
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-36x36/Chaos in Green, White.jpg
       title: Chaos in Green/White
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-36x36/Chaos in Terra Rosa.jpg
       title: Chaos in Terra Rosa
+      medium: Acrylic on canvas
 - name: 'Chaos 2: Dark on Light'
   works: 
     - path: /assets/artwork/Chaos-2-Dark-on-Light/Chaos in Blue.jpg
       title: Chaos in Blue
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-2-Dark-on-Light/Chaos in Green.jpg
       title: Chaos in Green
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-2-Dark-on-Light/Chaos in Peach.jpg
       title: Chaos in Peach
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-2-Dark-on-Light/Chaos in Yellow.jpg
       title: Chaos in Yellow
+      medium: Acrylic on canvas
 - name: 'Chaos 1: Light on Dark'
   works: 
     - path: /assets/artwork/Chaos-1-Light-on-Dark/No. 4 Red.jpg
       title: No. 4 Red
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-1-Light-on-Dark/No. 7 Terracotta.jpg
       title: No. 7 Terracotta
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-1-Light-on-Dark/No. 10 Green.jpg
       title: No. 10 Green
+      medium: Acrylic on canvas
     - path: /assets/artwork/Chaos-1-Light-on-Dark/No. 13 Blue.jpg
       title: No. 13 Blue
+      medium: Acrylic on canvas
