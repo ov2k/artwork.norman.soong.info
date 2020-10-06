@@ -1,19 +1,19 @@
 - name: The Seven Last Words
   works: 
     - path: /assets/artwork/The-Seven-Last-Words/1. For they do not know what they do.jpg
-      title: 1. For they do not know what they do
+      title: For they do not know what they do
     - path: /assets/artwork/The-Seven-Last-Words/2. You will be with me in Paradise..jpg
-      title: 2. You will be with me in Paradise.
+      title: You will be with me in Paradise.
     - path: /assets/artwork/The-Seven-Last-Words/3. Here is your son and here is your mother..jpg
-      title: 3. Here is your son and here is your mother.
+      title: Here is your son and here is your mother.
     - path: /assets/artwork/The-Seven-Last-Words/4. Why have you forsaken me.jpg
-      title: 4. Why have you forsaken me?
+      title: Why have you forsaken me?
     - path: /assets/artwork/The-Seven-Last-Words/5. I am thirsty..jpg
-      title: 5. I am thirsty.
+      title: I am thirsty.
     - path: /assets/artwork/The-Seven-Last-Words/6. It is finished..jpg
-      title: 6. It is finished.
+      title: It is finished.
     - path: /assets/artwork/The-Seven-Last-Words/7. Into your hands I commit my spirit..jpg
-      title: 7. Into your hands I commit my spirit.
+      title: Into your hands I commit my spirit.
 - name: Five Bar Requiem
   works: 
     - path: /assets/artwork/Five-Bar-Requiem/Bar 01.jpg
@@ -93,7 +93,7 @@
     - path: /assets/artwork/Chaos-36x36/Chaos in Fall Color.jpg
       title: Chaos in Fall Color
     - path: /assets/artwork/Chaos-36x36/Chaos in Green, White.jpg
-      title: Chaos in Green, White
+      title: Chaos in Green/White
     - path: /assets/artwork/Chaos-36x36/Chaos in Terra Rosa.jpg
       title: Chaos in Terra Rosa
 - name: 'Chaos 2: Dark on Light'
