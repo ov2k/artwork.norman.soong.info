@@ -7,7 +7,7 @@ title: "Norman Soong's Artwork"
 
 {% for series in site.data.series %}
 
-# {{ series.name }}
+### {{ series.name }}
 
 {% include thumb-list.html %}
 
