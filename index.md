@@ -7,7 +7,7 @@ title: "Norman Soong's Artwork"
 
 {% for series in site.data.series %}
 
-# {{ series.name }}
+### {{ series.name }}
 
 {% include thumb-list.html %}
 
@@ -16,3 +16,8 @@ title: "Norman Soong's Artwork"
 
 
 <script type="text/javascript" src="{{ site.baseurl }}/lightbox2/dist/js/lightbox-plus-jquery.min.js"></script>
+<script>
+	lightbox.option({
+		'disableScrolling': true
+	});
+</script>
