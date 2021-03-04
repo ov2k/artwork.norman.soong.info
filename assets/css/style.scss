@@ -1,6 +1,11 @@
 ---
 ---
 
+$header-heading-color: #cccccc;
+$header-bg-color: #072818;
+$header-bg-color-secondary: #071828;
+$section-headings-color: #000030;
+
 @import "{{ site.theme }}";
 
 footer {
@@ -9,4 +14,8 @@ footer {
 
 .btn {
   display: none !important;
+}
+
+body {
+	background-color: #cccccc;
 }
