@@ -15,7 +15,7 @@ title: "Norman Soong's Artwork"
 
 
 
-<script type="text/javascript" src="{{ site.baseurl }}/lightbox2/dist/js/lightbox-plus-jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/lightbox2/dist/js/lightbox-plus-jquery.js"></script>
 <script>
 	lightbox.option({
 		'disableScrolling': true
